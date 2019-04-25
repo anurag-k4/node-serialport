@@ -2,7 +2,7 @@
   "name": "serialport-monorepo",
   "private": true,
   "version": "0.0.0",
-  "description": "Node.js packages to access serial ports, process data from them and speak many protocols",
+  "description": "Node.js paackages to access serial ports, process data from them and speak many protocols",
   "engines": {
     "node": ">=6.0.0"
   },
